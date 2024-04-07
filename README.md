@@ -14,6 +14,3 @@ Read **README_rpi.md**
 cd '.\Raspberry-Pi-4B\'
 open README_rpi.md
 ```
-
-## data_utils folder
-This folder is when you want to 
